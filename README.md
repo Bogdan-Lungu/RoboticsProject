@@ -24,25 +24,7 @@ The project revolves around the **ESP32 NodeMCU-32s** as the main controller, in
 
 ### Block Diagram
 
-
-+------------------+        +------------------+        +------------------+
-| Power Source     |        | ESP32 NodeMCU   |        | ILI9488 Display  |
-| (4xAA Batteries) |------->| (Main MCU)      |------->| (3.95" LCD, SD   |
-| + On/Off Switch  |        |                 |        | Reader Attached) |
-+------------------+        +------------------+        +------------------+
-         |                          |
-         |                          |
-         v                          v
-+------------------+        +------------------+
-| Joystick         |        | PAM8403 Amplifier|
-| + Buttons        |<------>| + Speaker (8Ω)  |
-| (Multiplexed GPIO)|        +------------------+
-         |
-         v
-+------------------+
-| RGB LED          |
-| Status Indicator |
-+------------------+
+TBD
 
  # Interaction Workflow
 
