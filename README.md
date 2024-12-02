@@ -24,7 +24,7 @@ The project revolves around the **ESP32 NodeMCU-32s** as the main controller, in
 
 ### Block Diagram
 
-```plaintext
+
 +------------------+        +------------------+        +------------------+
 | Power Source     |        | ESP32 NodeMCU   |        | ILI9488 Display  |
 | (4xAA Batteries) |------->| (Main MCU)      |------->| (3.95" LCD, SD   |
@@ -137,7 +137,7 @@ This project demonstrates:
 # Source Code and Resources
 
 ## Repository Structure
-```plaintext
+
 ESP32-GameBoy/
 ├── src/
 │   └── main.cpp
