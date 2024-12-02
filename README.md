@@ -95,24 +95,13 @@ TBD
 
 # Results Obtained
 
-## Functional Game Console:
-- Classic-style games run smoothly on the ESP32.
-- User inputs (buttons, joystick) are responsive.
-
-## Integrated Audio Playback:
-- Seamless background music and sound effects enhance the gaming experience.
-
-## Portable Design:
-- Operates effectively on 4xAA batteries, ensuring portability.
+TBD
 
 ---
 
 # Conclusions
 
-This project demonstrates:
-- The potential of the ESP32 for creating handheld entertainment devices.
-- The effective integration of hardware components like an amplifier, display, and buttons.
-- The efficiency of Arduino libraries in enabling complex functionality with limited resources.
+TBD
 
 ---
 
@@ -120,39 +109,24 @@ This project demonstrates:
 
 ## Repository Structure
 
-ESP32-GameBoy/
-├── src/
-│   └── main.cpp
-├── hardware/
-│   └── schematic.pdf
-├── images/
-│   ├── block_diagram.png
-│   └── hardware_layout.jpg
-├── data/
-│   ├── audio/
-│   │   └── background.wav
-│   └── games/
-│       └── breakout.bin
-└── README.md
+TBD
 
 ## Demo Video
 
 Embed a YouTube demo video:
 
-[![Demo Video](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=YourVideoID)
-
+TBD
 ---
 
 ## Journal
 
 ### Development Timeline
-- **Day 1**: Configured display and SD card reader.
-- **Day 2**: Implemented basic game logic for Breakout.
-- **Day 3**: Integrated audio playback and debugging.
+
+TBD
 
 ### Challenges
-- Debugging SD card initialization issues.
-- Fine-tuning audio synchronization with gameplay.
+
+TBD
 
 ---
 
