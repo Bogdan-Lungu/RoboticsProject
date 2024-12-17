@@ -41,7 +41,7 @@ TBD
 
 ---
 
-# Hardware Design
+# Hardware Design [Full Details](hardware/)
 
 ## Components List
 - **ESP32 NodeMCU-32s**: Microcontroller and main control unit.
