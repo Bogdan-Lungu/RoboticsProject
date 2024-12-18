@@ -28,11 +28,13 @@
 |------------------------|-------------------------|------------------------------------|
 | Buttons                | 26, 27, 33, 32, 34, 35 | Digital/Analog Inputs.             |
 | Joystick (VRX, VRY)    | 39, 36                 | Analog inputs for horizontal/vertical movement. |
+| Joystick Switch        | 12                     | Digital Input.                     |
 | SD Card                | 13 (CS), 14 (SCLK), 15 (MOSI), 19 (MISO) | SPI communication.                |
 | TFT Display            | 5 (CS), 2 (DC), 4 (RST), 23 (MOSI), 18 (SCLK) | SPI communication.                |
-| Joystick Switch        | 12                     | Digital Input.                     |
 | PAM8403 Amplifier      | 25                     | I2S output for audio signal.       |
-| RGB LED                | PWM pins               | Controlled for color indication.   |
+| RGB LED - Red Channel  | 16                     | PWM output for Red LED channel.    |
+| RGB LED - Green Channel| 17                     | PWM output for Green LED channel.  |
+| RGB LED - Blue Channel | 21                     | PWM output for Blue LED channel.   |
 
 ---
 
