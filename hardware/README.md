@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-12-18 at 12 29 43_0769c87d](https://github.com/user-attachments/assets/14778068-b739-4be3-bc4f-1b88bcd5c9a6)# ESP32 Project with TFT Display, Joystick, Buttons, and Audio Amplifier
+# ESP32 Project with TFT Display, Joystick, Buttons, and Audio Amplifier
 
 ## **Bill of Materials (BOM)**
 
