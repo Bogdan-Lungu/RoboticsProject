@@ -1,4 +1,4 @@
-# ESP32 Project with TFT Display, Joystick, Buttons, and Audio Amplifier
+![WhatsApp Image 2024-12-18 at 12 29 43_0769c87d](https://github.com/user-attachments/assets/14778068-b739-4be3-bc4f-1b88bcd5c9a6)# ESP32 Project with TFT Display, Joystick, Buttons, and Audio Amplifier
 
 ## **Bill of Materials (BOM)**
 
@@ -76,9 +76,13 @@
 
 <details>
   <summary>Click to expand for images and videos</summary>
+  ![WhatsApp Image 2024-12-18 at 12 26 12_222af54a](https://github.com/user-attachments/assets/bd8cb940-d622-4231-b96d-3b093640446a)
+  ![WhatsApp Image 2024-12-18 at 12 29 43_0769c87d](https://github.com/user-attachments/assets/df4809d2-d7e4-4807-8e08-54ca2769a89a)
+
 
   ### **Circuit Image**
-  ![Circuit Image](path_to_your_circuit_image.png)
+ ![WhatsApp Image 2024-12-18 at 12 26 12_222af54a](https://github.com/user-attachments/assets/58113ea1-3447-4740-b007-62bf5dff39d9)
+
 
   ### **Video Demonstration**
   [Watch Video Here](https://example.com/your-video-link)
