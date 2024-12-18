@@ -60,16 +60,15 @@
 
 ## **Block Diagram**
 
-![Block Diagram](![Blank diagram](https://github.com/user-attachments/assets/0a106e93-55a0-4ca5-a387-e1269dc94aad)
-)
+![Block diagram](https://github.com/user-attachments/assets/94566f88-06c7-458e-af70-b94f664f2f13)
+
 
 ---
 
 ## **Electrical Scheme**
 
-![Electrical Scheme](<img width="1752" alt="SchemaElectrica" src="https://github.com/user-attachments/assets/98ea4d95-5749-4253-904f-135c8345bb89" />
-)
-)
+<img width="1752" alt="SchemaElectrica" src="https://github.com/user-attachments/assets/cb1677a6-3cab-4605-aec5-8479606dfcc8" />
+
 
 ---
 
