@@ -40,8 +40,42 @@
 
 ## **Power Consumption**
 
-- **Estimated Total Consumption**: ~475 mA  
-- **Battery Runtime**: Approximately **4 hours** using 4x AA batteries (1.5V, ~2000mAh).
+### **Component Current Consumption Table**
+
+| **Component**             | **Current Consumption (mA)**             |
+|---------------------------|------------------------------------------|
+| ESP32 NodeMCU-32S         | 95–240 (active) / ~6–10 (deep sleep)     |
+| TFT Display ILI9488       | 20 (backlight off) / ~150 (backlight on) |
+| Analog Joystick           | ~1 (idle) / Slightly higher during use   |
+| Push Buttons (6x)         | ~0 (not pressed) / Few mA when pressed   |
+| SD Card                   | ~100 (during read/write)                 |
+| PAM8403 Amplifier         | 20 (idle) / ~100 (operating)             |
+| Speaker                   | ~350 (at 1W output)                     |
+| Resistors (6x, 1kΩ)       | ~5 mA each                              |
+| Capacitor (10 µF)         | Negligible (transient current)           |
+| Buck Converter            | ~1 (quiescent) / Load dependent          |
+| RGB LED                   | ~20 per channel, ~60 all channels on     |
+
+### **Total Current Calculation**
+Assuming typical usage:
+- ESP32: **150 mA**
+- TFT Display: **150 mA**
+- Joystick & Buttons: **5 mA**
+- SD Card: **100 mA**
+- Amplifier + Speaker: **350 mA**
+- Resistors: **30 mA**
+- RGB LED: **60 mA**
+
+**Total Estimated Current:**
+
+
+### **Operating Time on 4 AA Batteries**
+- AA Battery Capacity: ~2000 mAh (average).  
+- Effective Capacity at ~845 mA draw: ~70% → **1400 mAh**.
+
+**Operating Time:**
+
+Time = Effective Capacity / Total Current Time = 1400 mAh / 845 mA ≈ 1.66 hours (~1 hour 40 minutes)
 
 ---
 
