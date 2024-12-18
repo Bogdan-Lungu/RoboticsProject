@@ -22,20 +22,6 @@
 
 ---
 
-## **Hardware Functionality**
-
-### **Components Used**
-1. **ESP32 NodeMCU-32S**: Main microcontroller with Wi-Fi/Bluetooth connectivity.
-2. **TFT Display ILI9488**: 3.95" display connected via **SPI protocol**.
-3. **Analog Joystick**: Detects horizontal and vertical movement through VRX and VRY pins.
-4. **6 Buttons**: Configured as digital/analog inputs.
-5. **PAM8403 Amplifier**: Utilizes the **I2S interface** for digital audio output to an 8Ω speaker.
-6. **SD Card**: Stores data, connected via **SPI protocol**.
-7. **Buck Converter (MT3608)**: Converts and regulates voltage for ESP32 and other components.
-8. **RGB LED**: Provides visual feedback.
-
----
-
 ## **Pin Configuration**
 
 | **Component**         | **ESP32 Pins**           | **Description**                    |
@@ -52,23 +38,20 @@
 
 ## **Power Consumption**
 
-- **Estimated Total Consumption**: ~475 mA.  
-- **Battery Runtime**:  
-   Using **4x AA batteries** (1.5V, ~2000mAh): approximately **4 hours** of operation.
+- **Estimated Total Consumption**: ~475 mA  
+- **Battery Runtime**: Approximately **4 hours** using 4x AA batteries (1.5V, ~2000mAh).
 
 ---
 
 ## **Block Diagram**
 
-![Block diagram](https://github.com/user-attachments/assets/94566f88-06c7-458e-af70-b94f664f2f13)
-
+![Block Diagram](https://github.com/user-attachments/assets/94566f88-06c7-458e-af70-b94f664f2f13)
 
 ---
 
 ## **Electrical Scheme**
 
 <img width="1752" alt="SchemaElectrica" src="https://github.com/user-attachments/assets/cb1677a6-3cab-4605-aec5-8479606dfcc8" />
-
 
 ---
 
@@ -77,18 +60,11 @@
 <details>
   <summary>Click to expand for images and videos</summary>
    
-  ### **Circuit Image**
-![WhatsApp Image 2024-12-18 at 12 26 12_222af54a](https://github.com/user-attachments/assets/427d9715-2b31-4a21-9c66-5f6c11e5fe25)
-![WhatsApp Image 2024-12-18 at 12 29 43_0769c87d](https://github.com/user-attachments/assets/ef35d4ef-4b5c-493f-925a-87e253195a64)
+### **Circuit Images**
+![Image 1](https://github.com/user-attachments/assets/427d9715-2b31-4a21-9c66-5f6c11e5fe25)
+![Image 2](https://github.com/user-attachments/assets/ef35d4ef-4b5c-493f-925a-87e253195a64)
 
-
-
-
-  ### **Video Demonstration**
-  [Watch Video Here](https://example.com/your-video-link)
+### **Video Demonstration**
+- [Watch Video 1](https://youtu.be/-YE9Uky0VJU)  
+- [Watch Video 2](https://youtu.be/jE44WhSzTqU)
 </details>
-
----
-
-## **Conclusion**
-This project integrates the ESP32 NodeMCU-32S with multiple peripherals, including a TFT display, analog joystick, buttons, an audio amplifier (using I2S), and an SD card (using SPI). The setup provides full input, display, and audio output functionality.
