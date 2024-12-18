@@ -22,10 +22,6 @@ This project replicates a retro-style console inspired by the Nintendo NES but r
 
 The project revolves around the **ESP32 NodeMCU-32s** as the main controller, interfacing with a 3.95-inch **ILI9488 TFT Display**, audio playback through a **PAM8403 amplifier**, and game inputs via multiplexed buttons and a joystick. An SD card reader on the display provides storage for assets.
 
-### Block Diagram
-
-TBD
-
  # Interaction Workflow
 
 ## Power Up:
