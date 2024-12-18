@@ -51,7 +51,7 @@
 
 ## **Electrical Scheme**
 
-<img width="1752" alt="SchemaElectrica" src="https://github.com/user-attachments/assets/cb1677a6-3cab-4605-aec5-8479606dfcc8" />
+<img width="1754" alt="diagrama23" src="https://github.com/user-attachments/assets/c1bb40ee-1e0c-4545-ba9a-c73ff2418a9e" />
 
 ---
 
