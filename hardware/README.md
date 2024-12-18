@@ -67,7 +67,8 @@
 
 ## **Electrical Scheme**
 
-![Electrical Scheme](![image](https://github.com/user-attachments/assets/d1958952-eae4-440c-97c6-52ddb6be5cf7)
+![Electrical Scheme](<img width="1752" alt="SchemaElectrica" src="https://github.com/user-attachments/assets/98ea4d95-5749-4253-904f-135c8345bb89" />
+)
 )
 
 ---
