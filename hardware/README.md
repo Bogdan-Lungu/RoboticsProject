@@ -58,13 +58,31 @@
 
 ---
 
-## **Images and Testing**
+## **Block Diagram**
 
-![Circuit Image](#) *(Attach your images here)*  
+![Block Diagram](![Blank diagram](https://github.com/user-attachments/assets/0a106e93-55a0-4ca5-a387-e1269dc94aad)
+)
 
-**Testing**:  
-1. **TFT Display**: Verified using SPI communication. A simple graphic display test confirms functionality.  
-2. **Audio Output**: PAM8403 successfully outputs audio via I2S to the speaker.  
+---
+
+## **Electrical Scheme**
+
+![Electrical Scheme](![image](https://github.com/user-attachments/assets/d1958952-eae4-440c-97c6-52ddb6be5cf7)
+)
+
+---
+
+## **Images and Videos**
+
+<details>
+  <summary>Click to expand for images and videos</summary>
+
+  ### **Circuit Image**
+  ![Circuit Image](path_to_your_circuit_image.png)
+
+  ### **Video Demonstration**
+  [Watch Video Here](https://example.com/your-video-link)
+</details>
 
 ---
 
