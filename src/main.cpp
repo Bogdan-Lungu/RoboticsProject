@@ -1,8 +1,5 @@
 #include <TFT_eSPI.h>
-#include <math.h>  // Pentru cos() și sin()
- 
-// ==================== [ 1. CONFIGURĂRI GENERALE ] ==========================
-
+#include <math.h> 
 #include <Arduino.h>
 
 // dac pins for esp32
